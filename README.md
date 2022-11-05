@@ -1,0 +1,2 @@
+# MLIT_PLATEAU_import
+PLATEAUデータインポート作業用リポジトリ
